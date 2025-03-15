@@ -5,7 +5,7 @@
     <PropertyGroup>
         <Authors></Authors>
         <Company></Company>
-        <Version>2.0.2.3</Version>
+        <Version>2.0.2.4</Version>
         <Description>Turn everyone around you into Lalafells (or other races!)</Description>
         <Copyright></Copyright>
         <PackageProjectUrl>https://github.com/kelvin124124/OopsAllLalafellsSRE</PackageProjectUrl>
