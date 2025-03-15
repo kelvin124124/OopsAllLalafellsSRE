@@ -14,7 +14,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Penumbra.Api" Version="5.3.0" />
+        <PackageReference Include="Penumbra.Api" Version="5.6.0" />
     </ItemGroup>
 
     <ItemGroup>
