@@ -3,7 +3,7 @@
     <PropertyGroup>
         <Authors></Authors>
         <Company></Company>
-        <Version>2.0.2.5</Version>
+        <Version>2.0.2.6</Version>
         <Description>Turn everyone around you into Lalafells (or other races!)</Description>
         <Copyright></Copyright>
         <PackageProjectUrl>https://github.com/kelvin124124/OopsAllLalafellsSRE</PackageProjectUrl>
@@ -12,6 +12,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Penumbra.Api" Version="5.6.1" />
+        <PackageReference Include="Penumbra.Api" Version="5.10.0" />
     </ItemGroup>
 </Project>
