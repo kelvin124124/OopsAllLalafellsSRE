@@ -4,7 +4,7 @@ Turn everyone around you into Lalafells (or other races!)
 
 - Created by: Avaflow
 - Smol update by Ars Magna for to run in 6.2
-- Updated to 7.1 by Kelvin
+- Updated to 7.2 by Kelvin
 
 ## Usage
 Add `https://raw.githubusercontent.com/kelvin124124/CustomPlugins/main/pluginmaster.json` and `https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json` to list of custom repo under Experimental tab in dalamud settings.  
