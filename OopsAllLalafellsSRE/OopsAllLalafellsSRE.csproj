@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project Sdk="Dalamud.NET.Sdk/12.0.2">
+<Project Sdk="Dalamud.NET.Sdk/13.0.0">
     <PropertyGroup>
         <Authors></Authors>
         <Company></Company>
-        <Version>2.0.2.6</Version>
+        <Version>2.0.2.7</Version>
         <Description>Turn everyone around you into Lalafells (or other races!)</Description>
         <Copyright></Copyright>
         <PackageProjectUrl>https://github.com/kelvin124124/OopsAllLalafellsSRE</PackageProjectUrl>
