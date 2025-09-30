@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project Sdk="Dalamud.NET.Sdk/13.0.0">
+<Project Sdk="Dalamud.NET.Sdk/13.1.0">
     <PropertyGroup>
         <Authors></Authors>
         <Company></Company>
@@ -12,6 +12,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Penumbra.Api" Version="5.10.0" />
+        <PackageReference Include="Penumbra.Api" Version="5.12.0" />
     </ItemGroup>
 </Project>
