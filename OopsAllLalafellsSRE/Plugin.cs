@@ -5,7 +5,6 @@ using Dalamud.Interface.Windowing;
 using Dalamud.Plugin;
 using OopsAllLalafellsSRE.Utils;
 using OopsAllLalafellsSRE.Windows;
-using Penumbra.Api.Enums;
 
 namespace OopsAllLalafellsSRE
 {
