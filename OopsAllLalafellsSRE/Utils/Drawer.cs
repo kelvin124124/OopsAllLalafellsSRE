@@ -1,5 +1,4 @@
 using FFXIVClientStructs.FFXIV.Client.Game.Object;
-using Penumbra.Api.Enums;
 using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
